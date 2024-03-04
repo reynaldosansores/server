@@ -1,0 +1,2 @@
+# server
+server de minecraft
